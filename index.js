@@ -17,7 +17,7 @@ const rl = readline.createInterface({
 });
 
 console.clear();
-console.log("GTPS Status Discord Bot Remaked by GuckTubeYT#3123\nCoded by Clayne#0001\nHelped by No#7777\n")
+console.log("GTPS Status Discord Bots")
 
 if (!fs.existsSync("appconfig.json"))
 {
